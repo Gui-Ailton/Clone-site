@@ -1,0 +1,56 @@
+.cx-interna{
+  display: grid;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.cx-itens{
+  display: grid;
+  grid-template-columns: 342px 342px 342px;
+  height: 305px;
+  gap: 30px;
+  margin-top: 50px;
+  
+}
+
+.p2{
+  color: #808080;
+  display: flex;
+  margin: auto;
+  max-width: 750px;
+  line-height: 1.6;
+  margin-top: -20px;
+}
+
+.cx-cores{
+  display: grid;
+  background: #FFFFFF;
+  justify-content: center;
+  align-items: center;
+}
+
+.icones{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #E96C77;
+  margin: 20px auto;
+}
+
+.h3-icons{
+  margin-top:-40px ;
+  color: #555555;
+}
+
+.h3-2{
+  margin-top: 95px;
+  color: #555555;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.p2-2{
+  margin-top: 10PX;
+}

@@ -1,0 +1,95 @@
+.cor-bg-cont {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 110px;
+  
+}
+
+.cx-cont-form {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+input{
+  width: 426px;
+  height: 39px;
+  margin: 5px;
+  border: 1px solid #f3d3d3;
+}
+
+.alinhar-esquerda{
+  width: 100%;
+  display: flex;
+  justify-content: left;
+  margin-left: 50px;
+}
+
+.btn-cont{
+  height: 43px;
+  width: 90px;
+  margin-right: 14px;
+  cursor: pointer;
+}
+
+.btn-cont:hover{
+  background: #f6f6f6;
+  transition: 0.6s;
+}
+
+.alinhar{
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.icones{
+  margin: 40px auto;
+  background: #5B5C6B;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  
+}
+
+.flex{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-top: -20px;
+}
+
+.p-con{
+  margin-left: 10px;
+  
+
+}
+
+.cx-cont-se{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+hr{
+ 
+  width: 450px;
+  
+}
+
+.mg-con{
+  margin-top: 95px;
+}
+
+
+.btn-c2{
+  background: #FFFFFF;
+  border: 2px solid gray;
+  color: #000;
+}

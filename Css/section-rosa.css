@@ -1,0 +1,61 @@
+.bg-rosa {
+  background: #e96c77;
+  margin-top: 85px;
+  color: #FFFFFF;
+
+}
+
+.dv-centra {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  max-width: 1000px;
+  text-align: center;
+
+}
+
+.itens{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.cx-div-rosa{
+ justify-content: center;
+ align-items: center;
+  display: grid;
+  width: 394px;
+  height: 328px;
+  margin: 20px;
+  background: #EC828C;
+  box-shadow:   1px 1px 8px #000;
+}
+
+.logo-rosa{
+  margin: 40px auto;
+  background: #5B5C6B;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  
+}
+
+.p-limit{
+  margin-top: -70px;
+  line-height: 1.2;
+}
+
+.h4-rosa{
+  margin-top: -80px;
+}
+
+.p-h3{
+  line-height: 1.3;
+}
+
+.h3-pag-rosa{
+  margin-top: 95px;
+  font-size: 2rem;
+  font-weight: bold;
+}
